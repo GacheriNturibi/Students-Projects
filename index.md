@@ -2006,17 +2006,7 @@ xmlns="http://www.w3.org/TR/REC-html40">
   faulting) on surface displacement and the collective effects of surface
   displacement on the rising water levels.</td>
  </tr>
- <![if supportMisalignedColumns]>
- <tr height=0 style='display:none'>
-  <td width=74 style='width:56pt'></td>
-  <td width=77 style='width:58pt'></td>
-  <td width=150 style='width:113pt'></td>
-  <td width=68 style='width:51pt'></td>
-  <td width=107 style='width:80pt'></td>
-  <td width=1182 style='width:887pt'></td>
-  <td width=1917 style='width:1438pt'></td>
- </tr>
- <![endif]>
+ 
 </table>
 
 </div>
