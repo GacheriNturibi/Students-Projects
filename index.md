@@ -1,7 +1,6 @@
 ## Simple static website
 This website shows final year projects for GEGIS students
 
-
 <html>
 <body>
     <head>GEGIS PROJECTS</head>
