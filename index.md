@@ -9,7 +9,7 @@ This website shows final year projects for GEGIS students
     <br>
     <head>ENC221-0296/2016</head>
     <br>
-<table border="3" cellpadding= "0" cellspacing="0" width="100%">
+<table border="3" width="100%" style="border:collapse" cellpadding= "0" cellspacing="0"  >
     <tr>
         <th>First Name</th>
         <th>Second Name</th>
