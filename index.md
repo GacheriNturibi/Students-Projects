@@ -3,30 +3,17 @@ This website shows final year projects for GEGIS students
 
 
 
-<html xmlns:o="urn:schemas-microsoft-com:office:office"
-xmlns:x="urn:schemas-microsoft-com:office:excel"
-xmlns="http://www.w3.org/TR/REC-html40">
-
+<html>
 <head>
-
+GEGIS PROJECTS
 </head>
-
 <body>
 
-
-<div id=XL align=center x:publishsource="Excel">
+<div>
 
 <table border=0 cellpadding=0 cellspacing=0 width=3575 style='border-collapse:
  collapse;table-layout:fixed;width:2683pt'>
- <col width=74 style='mso-width-source:userset;mso-width-alt:2525;width:56pt'>
- <col width=77 style='mso-width-source:userset;mso-width-alt:2628;width:58pt'>
- <col width=150 style='mso-width-source:userset;mso-width-alt:5120;width:113pt'>
- <col width=68 style='width:51pt'>
- <col width=107 style='mso-width-source:userset;mso-width-alt:3635;width:80pt'>
- <col width=1182 style='mso-width-source:userset;mso-width-alt:40345;
- width:887pt'>
- <col width=1917 style='mso-width-source:userset;mso-width-alt:65433;
- width:1438pt'>
+ 
  <tr height=19 style='height:14.25pt'>
   <td height=19 class=xl634503 width=74 style='height:14.25pt;width:56pt'>Moses</td>
   <td class=xl634503 width=77 style='border-left:none;width:58pt'>Kerama</td>
