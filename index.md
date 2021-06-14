@@ -1,17 +1,15 @@
 ## Welcome to my simple static website
 This website shows final year projects for GEGIS students
 
-
-<!doctype html>
 <html>
 <body>
-    <head>JKUAT(GEGIS)_PROJECTS</head>
+    <head>GEGIS_PROJECTS</head>
     <br>
     <head> NTURIBI GACHERI LYDIAH</head>
     <br>
-    <head>ENC221-0296/2015</head>
+    <head>ENC221-0296/2016</head>
     <br>
-<table border="5" cellpadding= "0" cellspacing="0">
+<table border="2" cellpadding= "0" cellspacing="0">
     <tr>
         <th>First Name</th>
         <th>Second Name</th>
@@ -26,8 +24,8 @@ This website shows final year projects for GEGIS students
          <td>Kerama</td>
          <td>EN281-2870/2014</td>
          <td>GEGIS</td>
-         <td>   </td> </td>
-         <td>EFFECTS OF LAND COVER PATTERN ON LAND SURFACE TEMPERATURE IN URBAN LANDSCAPES: A Case Study of Nairobi CBD</td>td>
+         <td>     </td>
+         <td>EFFECTS OF LAND COVER PATTERN ON LAND SURFACE TEMPERATURE IN URBAN LANDSCAPES: A Case Study of Nairobi CBD</td>
          <td>Rapid urbanization has led to increased land surface temperature (LST) and severe urban heat islands (UHIs). The impacts of land use/land cover (LULC) on LST have been extensively studied. However the differences between land use and land cover and their implications in an urban environment are often overlooked. This study aimed to study the effects from land use types and land cover patterns on LST along urbanization. The LST and LULC data of the study area were obtained from a Landsat ETM+ image and Landsat 8 OLI/TIRS respectively. Then landscape metrics were selected and calculated for analyzing the land cover patterns. Correlation analysis and regression analysis were undertaken to determine the relationship between LST and land cover patterns at the land use level. The results showed that it was inadequate to treat land cover as the single factor affecting LST. Furthermore LST values did not simply decrease along the urbanization at the land use level. Even though land cover patterns significantly affected LST land cover variables related to LST varied greatly among the various land use types. The findings in our study provide additional knowledge for optimizing land cover patterns associated with different land use types which may mitigate the adverse impacts of UHIs at a fine scale.</td>
      </tr>
      <tr>
