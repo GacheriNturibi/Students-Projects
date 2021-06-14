@@ -1,5 +1,5 @@
 ## Welcome to my simple static website
-#This website shows final year projects for GEGIS students
+This website shows final year projects for GEGIS students
 
 
 
@@ -8,10 +8,6 @@ xmlns:x="urn:schemas-microsoft-com:office:excel"
 xmlns="http://www.w3.org/TR/REC-html40">
 
 <head>
-<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
-<meta name=ProgId content=Excel.Sheet>
-<meta name=Generator content="Microsoft Excel 15">
-<link rel=File-List href="html2_files/filelist.xml">
 
 </head>
 
